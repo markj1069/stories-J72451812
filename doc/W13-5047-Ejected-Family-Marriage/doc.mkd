@@ -2,17 +2,62 @@ changecom(`/*', `*/')dnl
 
 # dc_title
 
-dc_date_issued
+---
+creation date: 2024-04-28
+modification date: 2024-04-28
+dewey: "813.6"
+---
+# Ejected from Family & Marriage
 
-Body Paragraph 1
+The note read:
 
-Body Paragraph 2
+_Dear Susanne_
 
-Body Paragraph 3
+_Congratulations on your retirement and imminent move to France. I'm on vacation and most likely will not be back before your embarkation, so let me say "Bon Voyage."_
 
-Body Paragraph 4
+_All the best —Simon_
 
-Body Paragraph 5
+Charlotte asked, "What was Dad thinking? He's been so supportive of you all these years."
+
+Mom said, "We're all a bit confused, Charlotte. Tom, could you help us understand?"
+
+Tom looked at his mother and sister. "Are you two being purposely obtuse, or are you just deluded? I'll tell you exactly what he was thinking."
+
+Tom sadly sighs and begins, "Well,
+
+1. Retirement is one of life's most important milestones, and you kept it a secret from Dad.
+2. You threw a party to celebrate your retirement. You invited our whole family but did not invite Dad.
+3. You introduced your family to the party without a mention of Dad.
+4. You kissed your CEO with a passion I have not seen you have with your husband in years.
+5. You said, 'We're moving to France in two weeks. ' Were you going alone, with the CEO, or your lover? You never indicated you and your husband.
+6. You finished the night in a hotel room with your possible lover, spending the whole retirement day without spending any time seeing or talking with your husband.
+
+You have successfully **ejected** Dad from his family and **ejected** your husband from your marriage."
+
+Mom exclaimed, "It was supposed to be a surprise!"
+
+Tom could not keep his tongue, "You succeeded. I'm sure he was surprised!"
+
+Charlotte asked, "What does his note mean?"
+
+"It means Dad is gone."
+
+"That is not like him!"
+
+"Has Dad ever gotten so mad that he was screaming and calling you nasty names?"
+
+"No."
+
+"Did Dad continuously sacrifice for us to live better?"
+
+"Yes."
+
+"How awkward and uncomfortable would he be over the next two to three weeks if he was here with Mom getting ready to leave for France with her possible lover?"
+
+"Oh my God!"
+
+Tom says, "Yes, let's drive to IHOP for breakfast. I'll pay." 
+
 
 \newpage
 

@@ -1,3 +1,5 @@
+Robin Stickel & Me & Company in Düsseldorf, Germany, [https://github.com/me-and-company](https://github.com/me-and-company) for their README template.
+
 # Project Title
 
 A short description about the project and/or client.
@@ -53,7 +55,11 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 
 ## Additional Documentation and Acknowledgments
 
-* Project folder on server:
+* Out thanks to Robin Stickel for her README.md template.[^README]
 * Confluence link:
 * Asana board:
 * etc...
+
+## References
+
+[^README]: Stickel, Robin. 2018. “README.Md.” Me & Company. https://github.com/me-and-company/readme-template.
